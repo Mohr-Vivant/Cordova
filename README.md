@@ -1,10 +1,4 @@
 # Cordova
-
-Ok alors, un peu d'expliquations sont nécessaires ici.
-Je n'ai aucune idée de comment on organise ses fichiers sur GitHub.
-Est-ce que je peux créer un dossier pour mettre mes fichiers à l'interieur par exemple ?
-Du coup j'ai tout étalé ici mais ça ne devrait pas être un problème.
-
 Pour faire fonctionner le projet Cordova il faut télécharger et décompresser la fichier .rar de ce répertoire et les déposer dans un dossier qui servira à contenir le projet,
 il manquera alors 2 choses :
 - Les librairies, qui sont bien trop volumineuses pour être déposées sur github mais qui sont téléchargeables avec la commande "npm install" qui créera le doosier node_module
