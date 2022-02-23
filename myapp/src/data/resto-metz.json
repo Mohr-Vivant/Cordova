@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "McDonald's",
+        "horaires": "10h - 23h",
+        "latitude": 49.11863761168853,
+        "longitude": 6.17498941620822
+    },
+    {
+        "id": 2,
+        "name": "Coté Sushi",
+        "horaires": "11h - 23h",
+        "latitude": 49.11723101379838,
+        "longitude": 6.1738991977759134
+    },
+    {
+        "id": 3,
+        "name": "Takoyaki",
+        "horaires": "11h - 22h30",
+        "latitude": 49.10655741969922,
+        "longitude": 6.1765507056620645
+    }
+
+
+]

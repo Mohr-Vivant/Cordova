@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "Comédie café",
+        "happyhour": "19h",
+        "latitude": 49.12036822191682, 
+        "longitude": 6.173030578663263
+    },
+    {
+        "id": 2,
+        "name": "Les Paraiges",
+        "happyhour": "18h30",
+        "latitude": 49.11733649732908, 
+        "longitude": 6.178955723547598
+    },
+    {
+        "id": 3,
+        "name": "Le 3.96",
+        "happyhour": "19h",
+        "latitude": 49.11586707197673,
+        "longitude": 6.179106987112331
+    }
+
+
+]
