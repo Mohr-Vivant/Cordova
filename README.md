@@ -5,7 +5,7 @@ Je n'ai aucune idée de comment on organise ses fichiers sur GitHub.
 Est-ce que je peux créer un dossier pour mettre mes fichiers à l'interieur par exemple ?
 Du coup j'ai tout étalé ici mais ça ne devrait pas être un problème.
 
-
+Ce répertoire contient 3 parties
 
 Pour faire fonctionner le projet Cordova il faut télécharger l'ensemble des fichiers de ce répertoire et les déposer dans un dossier qui servira à contenir le projet,
 il manquera alors 2 choses :
